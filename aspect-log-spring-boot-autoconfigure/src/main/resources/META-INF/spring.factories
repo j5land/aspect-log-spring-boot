@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.j5land.spring.boot.autoconfigure.AspectLogAutoConfiguration
