@@ -10,3 +10,4 @@
 
 ## 详细原理与实现
 可以参见我的公众号文章
+[如何写一个自己的SpringBootStarter](https://mp.weixin.qq.com/s/I61R6iFB5Fe47agRe-qmAA)
